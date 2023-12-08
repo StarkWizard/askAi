@@ -1,0 +1,11 @@
+pyperclip 
+requests
+openai
+Pillow
+pydantic
+pyinstaller
+pyinstaller-hooks-contrib
+pyperclip
+PyQt5
+requests
+setuptools
