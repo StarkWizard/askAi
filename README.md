@@ -1,11 +1,14 @@
 # askAi
  Tool for querying LM Studio with a simple keyboard shortcut, using clipboard content.
 
-![Description de l'image](/resources/screen.png)
+![askAI Looks like that:](/resources/screen.png)
 
 
-Launch LM Studio and activate the enpoint
-![Description de l'image](/resources/settings.png)
+- Launch LM Studio and activate the endpoint
+
+<img src="/resources/settings.png" alt="LM Studio Settings" width="300">
+
+
 
 * Copy some text from your favorite app, on Mac, press "control + option + command + c"
 This brings up askAi
