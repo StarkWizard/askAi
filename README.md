@@ -3,13 +3,13 @@
 
 ![askAI Looks like that:](/resources/screen.png)
 
-
+# Settings
 - Launch LM Studio and activate the endpoint
 <div align="center">
 <img src="/resources/settings.png" alt="LM Studio Settings" width="300">
 </div>
 
-
+# How to Use
 * Copy some text from your favorite app, on Mac, press "control + option + command + c"
 This brings up askAi
 
