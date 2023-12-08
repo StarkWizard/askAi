@@ -1,0 +1,13 @@
+- Copy askAi.app into your Application directory
+- Launch askAi.shortcut, a window pops up, click on "Add This shortcut"
+
+Usage:
+
+- Launch LM studio
+- Copy some text in your favorite App
+- press control + option + command
+- askAi Launches and starts generating based on the clipboard content
+
+Notes:
+- if the askAi is already launched, you don't need to use the shortcut, just activate the app it will look for changes automagically
+- In case of error, a message is displayed in the statusbar.
