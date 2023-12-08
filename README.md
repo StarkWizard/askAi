@@ -5,9 +5,9 @@
 
 
 - Launch LM Studio and activate the endpoint
-
+<div align="center">
 <img src="/resources/settings.png" alt="LM Studio Settings" width="300">
-
+</div>
 
 
 * Copy some text from your favorite app, on Mac, press "control + option + command + c"
